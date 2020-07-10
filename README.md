@@ -13,7 +13,7 @@ To run this game it is recommended to have Ruby verion 2.6.1 and Rails 6.0.1 ins
 
 ## Starting Up the Game
 
-Navigate to the `game-server` file in the terminal.
+Navigate to the `game-server` file in the terminal.\
 Run `bundle install` in the terminal to install the required gems.\
 Run `rails s` in the terminal to spin up the server.\
 In your web browser navigate to http://localhost:3000/ to make sure the Rails server is up and running.\
